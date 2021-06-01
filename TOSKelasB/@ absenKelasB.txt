@@ -1,1 +1,5 @@
 
+No. Presensi : 13
+NIM : 531419034
+Nama : Nur'aini Aprilya
+URL Repository : https://github.com/nuraini-aprilya/Struktur-Musik
